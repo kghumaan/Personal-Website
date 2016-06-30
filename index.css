@@ -1,7 +1,16 @@
 body{
 	margin: 0;
 }
+a, a:visited {
+    color: #000000;
+    border-bottom: 2px solid black;
+    padding-bottom: 2px;
+    text-decoration: none;
+}
 
+img {
+    border: 0;
+}
 .insetShadow{
 	box-shadow: inset 0px 0px 20px 10px #000;
 }
@@ -65,18 +74,29 @@ body{
 .email{
 	padding-top: 30px;
 }
+.firstlogo{
+	width: 55px;
+	height: 55px;
+	padding-right: 20px;
+	padding-left: 50px;
+	padding-top: 20px;
+	border: 0;
+}
 .logo{
-	width: 40px;
-	height: 40px;
-	padding-right: 30px;
-	padding-left: 30px;
-	padding-top: 30px;
+	width: 55px;
+	height: 55px;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 20px;
 	border: 0;
 }
 .logo2{
-	width: 35px;
-	height: 35px;
-	padding-right: 30px;
-	padding-left: 30px;
-	padding-top: 30px;
+	width: 50px;
+	height: 50px;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+.without-border {
+  border: none;
 }
