@@ -51,8 +51,8 @@ body{
 }
 .contact{
 	position: relative;
-	top: -90px;
-	left: 5%;
+	top: -50px;
+	left: 10%;
 	font-family: 'Open Sans', sans-serif;
 	color: black;
 	font-size: 220%;
@@ -63,5 +63,20 @@ body{
 	padding-top: 30px;
 }
 .email{
+	padding-top: 30px;
+}
+.logo{
+	width: 40px;
+	height: 40px;
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-top: 30px;
+	border: 0;
+}
+.logo2{
+	width: 35px;
+	height: 35px;
+	padding-right: 30px;
+	padding-left: 30px;
 	padding-top: 30px;
 }
