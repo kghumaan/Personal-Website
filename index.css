@@ -10,7 +10,6 @@ body{
 .image{
 	position: relative;
 	width: 100%;
-	height: 1.3*width;
 	z-index: -1;
 }
 .title{
@@ -48,14 +47,8 @@ body{
 
 
 
-
-
 .image2{
 	position: relative;
-	top: 0px;
 	width: 100%;
-	height: 600px;
-  	-moz-box-shadow: inset 10px 10px 50px #fff; 
-  	-webkit-box-shadow: inset 10px 10px 50px #fff; 
-  	box-shadow: inset 10px 10px 50px #fff; 
+	z-index: -1;
 }
