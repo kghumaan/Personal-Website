@@ -100,3 +100,27 @@ img {
 .without-border {
   border: none;
 }
+.beige3{
+	background-color: beige;
+	float: left;
+	width: 100%;
+	height: 666px;
+	position: relative;
+	top: 666px;
+}
+.resume{
+	float: left;
+	height: 666px;
+	width: 515px;
+}
+.resumeTextTitle{
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	text-align: center;
+	font-size: 260%;
+
+}
+.resumeText{
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	text-align: center;
+	font-size: 180%;
+}
